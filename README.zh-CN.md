@@ -51,3 +51,10 @@ Nest-Admin 1.0.0
 | [DooringX](https://github.com/H5-Dooring/dooringx)                                | 快速高效搭建可视化拖拽平台.                                                             |
 | [Mitu](https://github.com/H5-Dooring/mitu-editor)                                 | 一款轻量级且可扩展的图片/图形编辑器解决方案.                                            |
 | [xijs](https://github.com/MrXujiang/xijs)                                         | 一个开箱即用的面向业务的 javascript 工具库                                              |
+
+
+# 切换到gitee
+```
+git remote add gitee https://gitee.com/huaxiaosi/nest-admin.git
+git push gitee main
+```
