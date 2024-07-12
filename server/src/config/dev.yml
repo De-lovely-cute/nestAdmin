@@ -30,8 +30,8 @@ db:
   mysql:
     host: 'localhost'
     username: 'root'
-    password: ''
-    database: ''
+    password: 'root'
+    database: 'shop'
     port: 3306
     charset: 'utf8mb4'
     logger: 'file'
@@ -45,9 +45,9 @@ db:
 # redis 配置
 redis:
   host: 'localhost'
-  password: '123456'
+  password: ''
   port: 6379
-  db: 0
+  db: 16
   keyPrefix: ''
 
 # jwt 配置
